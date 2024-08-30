@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreagiaquinto
-- 👀 I’m interested in Delphi and C++ programming and I am using it for industrial automation
-- 🌱 I’m currently learning Delphi 11
+- 👀 I’m Delphi and C++ developer mostly for industrial automation
+- 🌱 I’m currently involved in coding better with Delphi
 
 <!---
 andreagiaquinto/andreagiaquinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
